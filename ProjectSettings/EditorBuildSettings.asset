@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 69e73d91cbd2def42b2ef21f9488c24a
+  - enabled: 1
     path: Assets/Scenes/AquaEnd.unity
     guid: 507931263f2e4a845bc3be9e0b0af9c4
   - enabled: 1
@@ -29,7 +32,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RedEnd.unity
     guid: 8e53e965b2997ef47bab3e76d1b3070e
-  - enabled: 1
-    path: Assets/Scenes/Title.unity
-    guid: 69e73d91cbd2def42b2ef21f9488c24a
   m_configObjects: {}
