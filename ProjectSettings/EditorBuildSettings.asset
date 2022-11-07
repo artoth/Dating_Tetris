@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AquaEnd.unity
+    guid: 507931263f2e4a845bc3be9e0b0af9c4
+  - enabled: 1
+    path: Assets/Scenes/Classroom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/DormDay.unity
+    guid: bd1ab72bd068b5141bd1674ec64c18fd
+  - enabled: 1
+    path: Assets/Scenes/DormNight.unity
+    guid: e165100f5dd7fe54caa0b7b9a6bef8e2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 327203e492c38104ab38211008152690
+  - enabled: 1
+    path: Assets/Scenes/OutsideSunflower.unity
+    guid: 2bb0ebb366bf29f4eb97a84d2123a54c
+  - enabled: 1
+    path: Assets/Scenes/OutsideTulip.unity
+    guid: d9fc5f1d56d6ca94d87b5cc76cb2690c
+  - enabled: 1
+    path: Assets/Scenes/RedEnd.unity
+    guid: 8e53e965b2997ef47bab3e76d1b3070e
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 69e73d91cbd2def42b2ef21f9488c24a
   m_configObjects: {}
